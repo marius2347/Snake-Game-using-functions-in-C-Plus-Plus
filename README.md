@@ -27,7 +27,7 @@
 
 
 <h2>Photo</h2>
-<img src="image.jpg" with="400" height="800">
+<img src="image.png" with="400" height="800">
 <br>
 
 <h2>Contact</h2>
