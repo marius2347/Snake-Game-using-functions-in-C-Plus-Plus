@@ -10,7 +10,7 @@
     <li>If is the first field, for the wall character in the left side</li>
     <li>Keep track whether we print the head segment or we not</li>
     <li>Can't go in the back direction</li>
-    <li>Reset the game from the opposite side after gameOver and score, tail back to 0</li>
+    <li>Reset the game from the opposite side after gameOver: sco and tail back to 0</li>
     <li>Check if we hit the tail => restart game</li>
     <li>If we ate the fruit increases the score with 10 points and the tail by +1 and put the next fruit on another random position</li>
     <li>Make the snake run slower left right down and up</li>
