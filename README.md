@@ -1,4 +1,4 @@
-<h1>Snake Game - C++ Project</h1>
+<h1>Snake Game using functions in C++</h1>
 <br>
 <h3>Features</h3>
 <ul>
